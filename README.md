@@ -1,7 +1,11 @@
-# ❄BackgroundGenerator❄
- 
-+ 기초 HTML
-+ 기초 CSS
-+ 기초 Javascript
+## Background Generator
+- Making gradient background colors.
 
-[링크](https://junwoo0823.github.io/BackgroundGenerator/)
+## Link
+- [preview](https://junwoo0823.github.io/BackgroundGenerator/)
+
+## Demo
+<img src="img/demo.gif">
+
+## Review
+- I made it simple using HTML, CSS, and Javascript.
