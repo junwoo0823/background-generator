@@ -1,4 +1,4 @@
-## Background Generator
+# Background Generator
 - Making gradient background colors.
 
 ## Link
